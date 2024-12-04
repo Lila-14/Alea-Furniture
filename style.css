@@ -1,0 +1,49 @@
+#menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menuitems{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    margin: 20px;
+    
+}
+#menu2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+#our{
+    background-color: gray;
+    height:250px ;
+    width: 400px;
+    padding: 20px;
+}
+#menu3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    
+    
+    
+}
+#our2{
+    height:250px ;
+    width: 400px;
+}
+#lorem{
+    height: 290px;
+    width: 800px;
+}
+
+a {
+ text-decoration: none;
+ color: black;
+}
